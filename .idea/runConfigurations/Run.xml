@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+    <module name="jade-starter" />
+    <option name="PROGRAM_PARAMETERS" value="-gui -name example -agents Meias:HelloWorldAgent" />
+    <selectedOptions>
+      <option name="before.launch.openToolWindow" />
+      <option name="commandLineParameters" />
+      <option name="environmentVariables" />
+      <option name="jrePath" />
+      <option name="mainClass" />
+      <option name="workingDirectory" />
+    </selectedOptions>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
